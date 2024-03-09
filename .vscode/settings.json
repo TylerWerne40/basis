@@ -1,0 +1,4 @@
+{
+    "zig.zls.trace.server": "messages",
+    "zig.zls.warnStyle": true
+}
